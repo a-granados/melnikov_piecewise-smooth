@@ -1,4 +1,4 @@
-# Routines for the computations of periodic orbits using Melnikov and Newton method in a piecewise-smooth system (the rocking block)
+# Routines for the computations of periodic orbits using Melnikov and Newton method in a piecewise-smooth system (the rocking block with restitution coefficient)
 Collection of C and bash routines for the computation of periodic orbits via Melnikov method in a piecewise-smooth system
 This software is the one used to compute the numerical results presented in 
 <a href="http://dx.doi.org/10.1137/110850359">
